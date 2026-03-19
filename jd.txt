@@ -1,0 +1,17 @@
+Role: AI Automation Intern
+
+Requirements:
+- Python programming
+- API usage
+- Workflow automation
+- Data handling and analysis
+- Prompt engineering
+- Problem solving
+- Good communication
+- Familiarity with LLMs, Google Sheets, Zapier, Make, or similar tools is a plus
+
+Responsibilities:
+- Build small AI-powered workflows
+- Automate repetitive business tasks
+- Structure inputs and outputs clearly
+- Work on practical internal tools
