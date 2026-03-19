@@ -5,6 +5,11 @@
 Watch the system in action:
 
 [Demo Video Link](https://drive.google.com/file/d/1YLtXQoPvsPXHLDTyAmeeFJtdW4t0CjRE/view?usp=sharing)
+The demo showcases:
+- Uploading job description and resumes
+- Running the screening process
+- Viewing ranked candidates
+- Inspecting detailed candidate insights
 
 ## Overview
 This project is an AI-powered candidate evaluation system that analyzes multiple resumes against a job description and generates structured hiring insights.
