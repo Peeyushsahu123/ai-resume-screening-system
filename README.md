@@ -1,5 +1,11 @@
 # AI-Powered Candidate Evaluation System
 
+## 🎥 Demo Video
+
+Watch the system in action:
+
+[Demo Video Link](https://drive.google.com/file/d/1YLtXQoPvsPXHLDTyAmeeFJtdW4t0CjRE/view?usp=sharing)
+
 ## Overview
 This project is an AI-powered candidate evaluation system that analyzes multiple resumes against a job description and generates structured hiring insights.
 
